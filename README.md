@@ -1,5 +1,6 @@
-# popularity-ratio-based-on-explicit
-Data cleaning and Visualization (Popularity ratio based on explicit from Spotify Top 50 Chart)
+# Spotify Songs Popularity Analysis
+
+Data cleaning and Visualization (Popularity Analysis from Spotify Top 50 Chart)
 
 
 
